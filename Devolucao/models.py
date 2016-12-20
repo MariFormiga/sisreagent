@@ -1,4 +1,4 @@
-from Reagentes.models import Reagente
+from Reagente.models import Reagente
 from django.db import models
 from django.utils import timezone
 from Unidade.models import Unidade

@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'Mensagem',
     'Periodo',
     'Pratica',
-    'Reagentes',
+    'Reagente',
     'Relatorio',
     'Riscos',
     'Unidade',

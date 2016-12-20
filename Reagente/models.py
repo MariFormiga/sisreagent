@@ -12,3 +12,6 @@ class Reagente (models.Model):
     Quantidade_Disponivel = models.CharField(max_length=200)
     Validade = models.DateField()
     Unidade = models.ForeignKey(Unidade)
+
+    class Meta:
+        verbose_name_plural = 'Reagente'
